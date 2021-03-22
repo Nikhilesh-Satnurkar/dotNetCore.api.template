@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Nikhilesh Satnurkar",
+  "classifications": [ "Solution", "WebAPI" ],
+  "name": "Solution Template for .Net Core 3.1",
+  "identity": "dotNetCore.api.template",
+  "groupIdentity": "dotNetCore.api.template",
+  "shortName": "dotNetCore3.1",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "dotNetCore.api.template",
+  "preferNameDirectory": true  
+  }
+}
